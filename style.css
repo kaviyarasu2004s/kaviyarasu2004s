@@ -1,0 +1,66 @@
+#body {
+	background-color: #E6FAFA;
+}
+h1 {
+	text-align: center;
+	text-decoration: none;
+}
+.menu {
+	align-items: center;
+	
+	}
+.menu a{
+	font-size: 30px;
+	color: #000;
+	text-align: center;
+	text-decoration: none;	
+	background-color: transparent;
+	align-items: center;
+	padding: 30px;
+}
+
+h3{
+	font-weight: bold;
+	font-size: 25px;
+	margin-left: 15px;
+}
+#obj{
+	font-family: times new roman;
+	height: 20%;
+	width: 60%;
+	display: inline-block;
+	position: absolute;
+	top:  40%;
+	text-indent: 50px;
+	font-family: times new roman;
+	font-size: 25px;
+	line-height: 45px;
+	margin-left: 15px;
+	text-align: justify;
+}
+.profile{
+	height: 200px;
+	width: 200px;
+	display: inline-block;
+	position:  relative;
+	left: 73%;
+	top:  20%;
+}
+.profile-pic{
+	border: solid  black;
+	height: 200px;
+	width:  178px;
+	object-fit: fill;
+}
+#delc{
+    text-indent: 50px;
+	font-family: times new roman;
+	font-size: 25px;	
+    margin-left: 15px;
+	text-align: justify;
+}
+h4{
+	font-size: 20px;
+	text-align: center;
+	
+}
